@@ -373,6 +373,7 @@ body {
 .nav-page-section {
   background: var(--primary-white-color);
   padding-top: 103px;
+  padding-bottom: 120px;
 }
 .container {
   margin: 0 auto;
@@ -432,7 +433,6 @@ body {
   column-gap: 24px;
   row-gap: 48px;
   list-style: none;
-  padding-bottom: 120px;
 }
 .achivement-list-item {
   flex-basis: calc((100% - 2 * 24px) / 3);
